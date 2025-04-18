@@ -62,6 +62,4 @@ jupyter notebook memotag_voice_problem_detection.ipynb
 - Collaborate with **clinicians and speech-language pathologists** for validation.
 
 
-## 📄 License
 
-This project is licensed under the MIT License.
