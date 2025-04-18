@@ -61,9 +61,6 @@ jupyter notebook memotag_voice_problem_detection.ipynb
 - Build a **web interface** or mobile app for easier testing and use in clinics.
 - Collaborate with **clinicians and speech-language pathologists** for validation.
 
-## ⚠️ Disclaimer
-
-> This is a research prototype and is not certified for clinical diagnosis. Always consult a licensed medical professional for accurate assessment and treatment.
 
 ## 📄 License
 
