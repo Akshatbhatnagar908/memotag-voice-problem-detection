@@ -60,6 +60,6 @@ jupyter notebook memotag_voice_problem_detection.ipynb
 - Integrate **deep learning models** (LSTM, CNN, BERT) for more accuracy.
 - Build a **web interface** or mobile app for easier testing and use in clinics.
 - Collaborate with **clinicians and speech-language pathologists** for validation.
-
+linkedin-https://www.linkedin.com/in/akshatbhatnagar908/
 
 
